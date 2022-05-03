@@ -7,8 +7,6 @@ seaborn
 plotly
 yfinance
 statsmodels
-ipykernel
-jupyterlab
 nltk
 textblob
 wordcloud
